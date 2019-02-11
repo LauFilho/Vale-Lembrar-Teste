@@ -1,0 +1,66 @@
+C:\Users\Lau Filho\Documents\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale_Lembrar_Teste.Properties.Resources.resources
+C:\Users\Lau Filho\Documents\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale2.csproj.GenerateResource.cache
+C:\Users\Lau Filho\Documents\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale2.csproj.CoreCompileInputs.cache
+C:\Users\Lau Filho\Documents\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\bin\Debug\Vale Lembrar Teste.exe.config
+C:\Users\Lau Filho\Documents\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\bin\Debug\Vale Lembrar Teste.exe
+C:\Users\Lau Filho\Documents\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\bin\Debug\Vale Lembrar Teste.pdb
+C:\Users\Lau Filho\Documents\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\bin\Debug\Google.Protobuf.dll
+C:\Users\Lau Filho\Documents\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\bin\Debug\MySql.Data.dll
+C:\Users\Lau Filho\Documents\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale2.csproj.CopyComplete
+C:\Users\Lau Filho\Documents\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale Lembrar Teste.exe
+C:\Users\Lau Filho\Documents\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale Lembrar Teste.pdb
+C:\Users\Lau Filho\Documents\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale_Lembrar_Teste.Menuprinc.resources
+C:\Users\Lau Filho\Documents\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale_Lembrar_Teste.add_om.resources
+C:\Users\Lau Filho\Documents\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale_Lembrar_Teste.Add.add_pc.resources
+C:\Users\Lau Filho\Documents\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale_Lembrar_Teste.Add.add_rc.resources
+C:\Users\Lau Filho\Documents\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale_Lembrar_Teste.alter_om.resources
+C:\Users\Lau Filho\Documents\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale_Lembrar_Teste.Alter.alter_pc.resources
+C:\Users\Lau Filho\Documents\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale_Lembrar_Teste.Alter.alter_rc.resources
+C:\Users\Lau Filho\Documents\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale_Lembrar_Teste.Cadastrar.add_user.resources
+C:\Users\Lau Filho\Documents\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale_Lembrar_Teste.Cadastrar.del_user.resources
+C:\Users\Lau Filho\Documents\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale_Lembrar_Teste.Cadastrar.list_user.resources
+C:\Users\Lau Filho\Documents\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale_Lembrar_Teste.Excluir.del_om.resources
+C:\Users\Lau Filho\Documents\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale_Lembrar_Teste.Excluir.del_pc.resources
+C:\Users\Lau Filho\Documents\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale_Lembrar_Teste.Excluir.del_rc.resources
+C:\Users\Lau Filho\Documents\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale_Lembrar_Teste.Formulários.lembrador_om.resources
+C:\Users\Lau Filho\Documents\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale_Lembrar_Teste.Listar.list_om.resources
+C:\Users\Lau Filho\Documents\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale_Lembrar_Teste.Listar.list_pc.resources
+C:\Users\Lau Filho\Documents\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale_Lembrar_Teste.Listar.list_rc.resources
+C:\Users\Lau Filho\Documents\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale2.csprojAssemblyReference.cache
+C:\Users\Lau Filho\Documents\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\bin\Debug\Vale Lembrar Teste.exe.manifest
+C:\Users\Lau Filho\Documents\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\bin\Debug\Vale Lembrar Teste.application
+C:\Users\Lau Filho\Documents\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale Lembrar Teste.exe.manifest
+C:\Users\Lau Filho\Documents\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale Lembrar Teste.application
+D:\Documentos\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\bin\Debug\Vale Lembrar Teste.exe.config
+D:\Documentos\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\bin\Debug\Vale Lembrar Teste.exe.manifest
+D:\Documentos\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\bin\Debug\Vale Lembrar Teste.application
+D:\Documentos\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\bin\Debug\Vale Lembrar Teste.exe
+D:\Documentos\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\bin\Debug\Vale Lembrar Teste.pdb
+D:\Documentos\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\bin\Debug\Google.Protobuf.dll
+D:\Documentos\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\bin\Debug\MySql.Data.dll
+D:\Documentos\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale2.csprojAssemblyReference.cache
+D:\Documentos\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale_Lembrar_Teste.add_om.resources
+D:\Documentos\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale_Lembrar_Teste.Add.add_pc.resources
+D:\Documentos\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale_Lembrar_Teste.Add.add_rc.resources
+D:\Documentos\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale_Lembrar_Teste.alter_om.resources
+D:\Documentos\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale_Lembrar_Teste.Alter.alter_pc.resources
+D:\Documentos\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale_Lembrar_Teste.Alter.alter_rc.resources
+D:\Documentos\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale_Lembrar_Teste.Cadastrar.add_user.resources
+D:\Documentos\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale_Lembrar_Teste.Cadastrar.del_user.resources
+D:\Documentos\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale_Lembrar_Teste.Cadastrar.list_user.resources
+D:\Documentos\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale_Lembrar_Teste.Excluir.del_om.resources
+D:\Documentos\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale_Lembrar_Teste.Excluir.del_pc.resources
+D:\Documentos\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale_Lembrar_Teste.Excluir.del_rc.resources
+D:\Documentos\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale_Lembrar_Teste.Formulários.lembrador_om.resources
+D:\Documentos\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale_Lembrar_Teste.Listar.list_om.resources
+D:\Documentos\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale_Lembrar_Teste.Listar.list_pc.resources
+D:\Documentos\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale_Lembrar_Teste.Listar.list_rc.resources
+D:\Documentos\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale_Lembrar_Teste.MenuPrinc.resources
+D:\Documentos\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale_Lembrar_Teste.Properties.Resources.resources
+D:\Documentos\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale2.csproj.GenerateResource.cache
+D:\Documentos\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale2.csproj.CoreCompileInputs.cache
+D:\Documentos\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale Lembrar Teste.exe.manifest
+D:\Documentos\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale Lembrar Teste.application
+D:\Documentos\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale2.csproj.CopyComplete
+D:\Documentos\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale Lembrar Teste.exe
+D:\Documentos\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale Lembrar Teste.pdb

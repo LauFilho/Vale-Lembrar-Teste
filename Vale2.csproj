@@ -1,0 +1,395 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D1F73A6D-7050-438B-8FD5-3FFEF3598420}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Vale_Lembrar_Teste</RootNamespace>
+    <AssemblyName>Vale Lembrar Teste</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Lau Filho\Documents\Vale Lembrar Teste\ValeLembrarProgram\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ProductName>ValeLembrar</ProductName>
+    <PublisherName>Lau Filho</PublisherName>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>0838932D69D9D6622D6018F902DA95749E504DB8</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Vale2_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>BOV_VALE3.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Vale_Lembrar_Teste.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BO\Ord_ManBO.cs" />
+    <Compile Include="BO\Ped_CmpBO.cs" />
+    <Compile Include="BO\Req_CmpBO.cs" />
+    <Compile Include="BO\UsuarioBO.cs" />
+    <Compile Include="DAO\ConnectBD.cs" />
+    <Compile Include="DAO\Ord_ManDAO.cs" />
+    <Compile Include="DAO\Ped_CmpDAO.cs" />
+    <Compile Include="DAO\Req_CmpDAO.cs" />
+    <Compile Include="DAO\UsuarioDAO.cs" />
+    <Compile Include="Formulários\Add\add_om.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulários\Add\add_om.Designer.cs">
+      <DependentUpon>add_om.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulários\Add\add_pc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulários\Add\add_pc.Designer.cs">
+      <DependentUpon>add_pc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulários\Add\add_rc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulários\Add\add_rc.Designer.cs">
+      <DependentUpon>add_rc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulários\Alter\alter_om.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulários\Alter\alter_om.Designer.cs">
+      <DependentUpon>alter_om.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulários\Alter\alter_pc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulários\Alter\alter_pc.Designer.cs">
+      <DependentUpon>alter_pc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulários\Alter\alter_rc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulários\Alter\alter_rc.Designer.cs">
+      <DependentUpon>alter_rc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulários\Cadastrar\add_user.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulários\Cadastrar\add_user.Designer.cs">
+      <DependentUpon>add_user.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulários\Cadastrar\del_user.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulários\Cadastrar\del_user.Designer.cs">
+      <DependentUpon>del_user.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulários\Cadastrar\list_user.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulários\Cadastrar\list_user.Designer.cs">
+      <DependentUpon>list_user.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulários\Excluir\del_om.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulários\Excluir\del_om.Designer.cs">
+      <DependentUpon>del_om.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulários\Excluir\del_pc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulários\Excluir\del_pc.Designer.cs">
+      <DependentUpon>del_pc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulários\Excluir\del_rc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulários\Excluir\del_rc.Designer.cs">
+      <DependentUpon>del_rc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulários\Lembrador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulários\Lembrador.Designer.cs">
+      <DependentUpon>Lembrador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulários\Listar\list_om.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulários\Listar\list_om.Designer.cs">
+      <DependentUpon>list_om.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulários\Listar\list_pc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulários\Listar\list_pc.Designer.cs">
+      <DependentUpon>list_pc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulários\Listar\list_rc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulários\Listar\list_rc.Designer.cs">
+      <DependentUpon>list_rc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulários\MenuPrinc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulários\MenuPrinc.Designer.cs">
+      <DependentUpon>MenuPrinc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MODEL\Ord_Man.cs" />
+    <Compile Include="MODEL\Ped_Cmp.cs" />
+    <Compile Include="MODEL\Req_Cmp.cs" />
+    <Compile Include="MODEL\Serviço.cs" />
+    <Compile Include="MODEL\Usuario.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Formulários\Add\add_om.resx">
+      <DependentUpon>add_om.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulários\Add\add_pc.resx">
+      <DependentUpon>add_pc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulários\Add\add_rc.resx">
+      <DependentUpon>add_rc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulários\Alter\alter_om.resx">
+      <DependentUpon>alter_om.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulários\Alter\alter_pc.resx">
+      <DependentUpon>alter_pc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulários\Alter\alter_rc.resx">
+      <DependentUpon>alter_rc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulários\Cadastrar\add_user.resx">
+      <DependentUpon>add_user.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulários\Cadastrar\del_user.resx">
+      <DependentUpon>del_user.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulários\Cadastrar\list_user.resx">
+      <DependentUpon>list_user.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulários\Excluir\del_om.resx">
+      <DependentUpon>del_om.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulários\Excluir\del_pc.resx">
+      <DependentUpon>del_pc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulários\Excluir\del_rc.resx">
+      <DependentUpon>del_rc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulários\Lembrador.resx">
+      <DependentUpon>Lembrador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulários\Listar\list_om.resx">
+      <DependentUpon>list_om.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulários\Listar\list_pc.resx">
+      <DependentUpon>list_pc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulários\Listar\list_rc.resx">
+      <DependentUpon>list_rc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulários\MenuPrinc.resx">
+      <DependentUpon>MenuPrinc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <None Include="Formulários\Listar\App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Vale2_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="MySql.Data">
+      <Version>8.0.12</Version>
+    </PackageReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BOV_VALE3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cadeado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\del_user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit_user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list_user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logotipo_Vale.svg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ordem de Manutenção.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pesquisa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vale_logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 e x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6 %28x86 e x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 e x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.2 %28x86 e x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7 %28x86 e x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.1 %28x86 e x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Visual.C++.14.0.arm">
+      <Visible>False</Visible>
+      <ProductName>Bibliotecas de Tempo de Execução do Visual C++ "14" %28ARM%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Visual.C++.14.0.x64">
+      <Visible>False</Visible>
+      <ProductName>Bibliotecas de Tempo de Execução do Visual C++ "14" %28x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Visual.C++.14.0.x86">
+      <Visible>False</Visible>
+      <ProductName>Bibliotecas de Tempo de Execução do Visual C++ "14" %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="BOV_VALE3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <PublishFile Include="Google.Protobuf">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="MySql.Data">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

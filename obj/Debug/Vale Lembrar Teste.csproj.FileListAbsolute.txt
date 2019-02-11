@@ -1,0 +1,21 @@
+C:\Users\Lau Filho\Documents\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale Lembrar Teste.csprojAssemblyReference.cache
+C:\Users\Lau Filho\Documents\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\ValeLembrar.add_om.resources
+C:\Users\Lau Filho\Documents\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\ValeLembrar.Add.add_pc.resources
+C:\Users\Lau Filho\Documents\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\ValeLembrar.Add.add_rc.resources
+C:\Users\Lau Filho\Documents\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\ValeLembrar.alter_om.resources
+C:\Users\Lau Filho\Documents\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\ValeLembrar.Alter.alter_pc.resources
+C:\Users\Lau Filho\Documents\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\ValeLembrar.Alter.alter_rc.resources
+C:\Users\Lau Filho\Documents\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\ValeLembrar.Cadastrar.add_user.resources
+C:\Users\Lau Filho\Documents\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\ValeLembrar.Cadastrar.del_user.resources
+C:\Users\Lau Filho\Documents\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\ValeLembrar.Cadastrar.list_user.resources
+C:\Users\Lau Filho\Documents\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\ValeLembrar.Excluir.del_om.resources
+C:\Users\Lau Filho\Documents\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\ValeLembrar.Excluir.del_pc.resources
+C:\Users\Lau Filho\Documents\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\ValeLembrar.Excluir.del_rc.resources
+C:\Users\Lau Filho\Documents\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\ValeLembrar.Formulários.lembrador_om.resources
+C:\Users\Lau Filho\Documents\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\ValeLembrar.Listar.list_om.resources
+C:\Users\Lau Filho\Documents\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\ValeLembrar.Listar.list_pc.resources
+C:\Users\Lau Filho\Documents\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\ValeLembrar.Listar.list_rc.resources
+C:\Users\Lau Filho\Documents\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\ValeLembrar.MenuPrinc.resources
+C:\Users\Lau Filho\Documents\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale_Lembrar_Teste.Properties.Resources.resources
+C:\Users\Lau Filho\Documents\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale Lembrar Teste.csproj.GenerateResource.cache
+C:\Users\Lau Filho\Documents\Vale Lembrar Teste\Vale Lembrar Teste\Vale Lembrar Teste\obj\Debug\Vale Lembrar Teste.csproj.CoreCompileInputs.cache
